@@ -1,7 +1,7 @@
 {
-    "name": "curso-platzi-react-avanzado",
+    "name": "pwa-petgram",
     "version": "1.0.0",
-    "description": "¡Sígueme en Youtube! https://www.youtube.com/midudev",
+    "description": "An Instagram for pets",
     "main": "index.js",
     "scripts": {
         "build": "webpack",
@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/midudev/curso-platzi-react-avanzado.git"
+        "url": ""
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/midudev/curso-platzi-react-avanzado/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/midudev/curso-platzi-react-avanzado#readme",
+    "homepage": "",
     "devDependencies": {
         "@babel/core": "^7.9.6",
         "@babel/plugin-transform-runtime": "^7.9.6",
